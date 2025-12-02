@@ -354,7 +354,7 @@ npm run seed     # Seed database with sample data
 
 **MongoDB Connection Error**:
 
-- Ensure MongoDB is running: `mongod`
+- Ensure MongoDB is running: `mongodb`
 - Check connection string in `.env`
 
 **Redis Connection Error**:
